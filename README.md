@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Damei
 - 👀 I’m interested in 
 - 🌱 I’m currently learning in school
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on gethub
+- 📫 How to reach me: damej6788@gmail.com (my email)
 - 😄 Pronouns: 
 - ⚡ Fun fact: people=problem
 
